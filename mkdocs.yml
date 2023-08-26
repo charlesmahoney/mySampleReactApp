@@ -1,0 +1,8 @@
+site_name: "myPetStore"
+site_description: "this is my description"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
