@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "myPetStore"
-  description: "this is my description"
+  description: "this is my description \n This is Updated"
   annotations:
     github.com/project-slug: charlesmahoney/mySampleReactApp
     backstage.io/techdocs-ref: dir:.
